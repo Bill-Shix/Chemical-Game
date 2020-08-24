@@ -4,6 +4,11 @@
 #define MinCardsValue -25
 //价值最大值
 #define MaxCardsValue 10
+#include iostream
+using namespace std{
+	cout::struct HandCardValue;
+	return 0;
+}
 struct HandCardValue
 {
 	int SumValue;        //手牌总价值
